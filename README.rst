@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Read the Docs repo for jupyterlab-on-the-cluster
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This repo is used to generate the tutorial for using Jupyter lab on the UMCG Genetics HPC cluster
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://jupyterlab-on-the-cluster.readthedocs.io/en/latest/
