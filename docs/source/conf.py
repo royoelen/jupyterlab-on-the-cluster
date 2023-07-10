@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Jupyter Notebook on the UMCG Genetics HPC cluster'
+copyright = '2023, Roy Oelen'
+author = 'Roy Oelen'
 
 release = '0.1'
 version = '0.1.0'
